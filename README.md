@@ -18,3 +18,4 @@ O que devo foi feito para resolver o desafio!<br>
 -> Incluído a infraestrutura de exceções, validação e segurança ao projeto.<br>
 -> Implementar o endpoint GET /users/profile, para Obter o perfil do usuário logado<br>
 <br>
+<h4>Projeto finalizado na branch: https://github.com/evrasouza/bds05/tree/entregaTarefaMovieFlixDominioAutorizacao</h4>
