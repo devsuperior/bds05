@@ -7,7 +7,7 @@ public class UserTests {
 
 	@Test
 	public void userShouldHaveCorrectStructure() {
-		
+	
 		User entity = new User();
 		entity.setId(1L);
 		entity.setName("Name");
